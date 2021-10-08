@@ -8,5 +8,7 @@ public class Main {
         int[] eksempelArray = {12, 5, 6, 8};
         int resultat = b.arraySum(eksempelArray);
         System.out.println(resultat);
+
+
     }
 }

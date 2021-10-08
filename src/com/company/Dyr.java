@@ -75,6 +75,6 @@ public class Dyr {
         Dyr x7 = new Dyr(5, "Hector");
         Dyr x8 = new Dyr(3.4, true);
         Dyr x9 = new Dyr(3.4, "Hector");
-        Dyr x10 = new Dyr(true, "Hector");
+        Dyr x10 = new Dyr(false, "Marc");
     }
 }
